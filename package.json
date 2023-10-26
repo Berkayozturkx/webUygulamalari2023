@@ -1,0 +1,23 @@
+{
+  "name": "webuygulamalari2023",
+  "version": "1.0.0",
+  "description": "sunucu tabanlı web programlama dersleri",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Berkayozturkx/webUygulamalari2023.git"
+  },
+  "keywords": [
+    "web",
+    "uygulama"
+  ],
+  "author": "berkay öztürk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Berkayozturkx/webUygulamalari2023/issues"
+  },
+  "homepage": "https://github.com/Berkayozturkx/webUygulamalari2023#readme"
+}
